@@ -1,8 +1,6 @@
 # DJANGO PROJECT STARTER COMMANDS
 
----
-
-##### VIRTUAL ENVIRONMENT CREATION
+##### 👉 VIRTUAL ENVIRONMENT CREATION
 
 To create a virtual environment:
 
@@ -22,7 +20,7 @@ To install environment requirements (Optional):
 pip install -r requirements.txt
 ```
 
-##### DJANGO PROJECT CREATION
+##### 👉 DJANGO PROJECT CREATION
 
 To create a Django project:
 
@@ -36,7 +34,7 @@ To create a Django app:
 django-admin createapp app_name
 ```
 
-##### RUN SERVER
+##### 👉 RUN SERVER
 
 To start Django server:
 

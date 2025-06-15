@@ -25,13 +25,13 @@ pip install -r requirements.txt
 To create a Django project:
 
 ```sh
-django-admin createproject project_name
+django-admin startproject project_name
 ```
 
 To create a Django app:
 
 ```sh
-django-admin createapp app_name
+django-admin startapp app_name
 ```
 
 ##### 👉 RUN SERVER

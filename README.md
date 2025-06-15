@@ -1,5 +1,7 @@
 # DJANGO PROJECT STARTER COMMANDS
 
+---
+
 ##### VIRTUAL ENVIRONMENT CREATION
 
 To create a virtual environment:
